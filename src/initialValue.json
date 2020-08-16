@@ -1,0 +1,17 @@
+[
+    {
+        "description": "Bolacha Negresco",
+        "value": 3.3,
+        "quantity": 30
+    },
+    {
+        "description": "Vinho do Porto",
+        "value": 34.3,
+        "quantity": 30
+    }
+    {
+        "description": "Cesta de Palha",
+        "value": 12.30,
+        "quantity": 4
+    }
+]
